@@ -5,9 +5,13 @@ I am using Windows 10 OS. So far I have found scipy and pulp as reasonable packa
 ## Set up
 I used the [Anaconda](https://docs.continuum.io/anaconda/install) as my base Python library.
 You then need to install these two libraries:
+
 1. Pulp (main optimization library)
+
 > pip install pulp
+
 2. seaborn (for graphing)
+
 > conda install seaborn
 
 ## References
